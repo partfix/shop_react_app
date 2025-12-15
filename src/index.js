@@ -49,7 +49,7 @@ const burgerData = [
     name: "Veggie Burger",
     ingredients: "Vegetable-based patty (beans, grains, vegetables), bun.",
     price: 160,
-    photoName: "burgers/veggieBurger.jpg",
+    photoName: "burgers/veggieburger.jpg",
     soldOut: false,
     currency: "₱",
   },
